@@ -3,6 +3,8 @@
 #include <stdlib.h>
 
 printf("Hello world!")
+
+int main (){}
 =======
 
 >>>>>>> 2c080a92eea607b50e6fce68f47314c78493bc01
